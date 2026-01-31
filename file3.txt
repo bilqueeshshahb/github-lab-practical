@@ -1,0 +1,3 @@
+Github platform facilitates collaboration by managing access and tracking activity on multi-author projects.
+Inviting collaborators to a personal repository.
+collaborating with pull requests.
