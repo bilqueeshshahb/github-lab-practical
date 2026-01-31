@@ -1,0 +1,3 @@
+in Git, a branch is a lightweight, moveable pointer to specific commit in the project history.
+Iy improves collaboration and workflow efficiency.
+we can merge into another branch.
